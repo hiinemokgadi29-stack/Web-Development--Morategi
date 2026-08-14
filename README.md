@@ -176,3 +176,28 @@ Kwelano Bohloko Website
 │
 └── References
     └── references.html
+
+
+REFERENCES
+
+1. Limpopo Department of Social Development. (n.d.). NPO Directory.
+    Limpopo Department of Social Development – NPO Directory⁠￼
+    Accessed: 14 August 2026.
+2. South African Government. (2006). Older Persons Act 13 of 2006.
+    Older Persons Act 13 of 2006⁠￼
+    Accessed: 14 August 2026.
+3. South African Government. (2015). White Paper on the Rights of Persons with Disabilities.
+    White Paper on the Rights of Persons with Disabilities⁠￼
+    Accessed: 14 August 2026.
+4. World Wide Web Consortium (W3C). (n.d.). Web Accessibility Initiative (WAI).
+    W3C Web Accessibility Initiative⁠￼
+    Accessed: 14 August 2026.
+5. Mozilla Developer Network (MDN). (n.d.). HTML: HyperText Markup Language.
+    MDN HTML Documentation⁠￼
+    Accessed: 14 August 2026.
+6. W3Schools. (n.d.). HTML Tutorial.
+    W3Schools HTML Tutorial⁠￼
+    Accessed: 14 August 2026.
+7. Google. (n.d.). Google Maps.
+    Google Maps⁠￼
+    Accessed: 14 August 2026.
